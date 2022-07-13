@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1624849937 source:c:\users\usurio\desktop\trabajo integrador\trabajo integrador\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Funciones.h"
+	"rlutil.h"
+
+1624848150 c:\users\usurio\desktop\trabajo integrador\trabajo integrador\funciones.h
+	<windows.h>
+
+1571584339 c:\users\usurio\desktop\trabajo integrador\trabajo integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624848150 source:c:\users\usurio\desktop\trabajo integrador\trabajo integrador\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Funciones.h"
+	"rlutil.h"
+
+1625230481 source:c:\users\usurio\desktop\trabajo integrador final\trabajo integrador\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Funciones.h"
+	"rlutil.h"
+
+1625197556 c:\users\usurio\desktop\trabajo integrador final\trabajo integrador\funciones.h
+	<windows.h>
+
+1571584339 c:\users\usurio\desktop\trabajo integrador final\trabajo integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1625230158 source:c:\users\usurio\desktop\trabajo integrador final\trabajo integrador\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Funciones.h"
+	"rlutil.h"
+
+1625230158 source:c:\users\usurio\desktop\utn\primer año\primer cuatrimestre\laboratorio en computación 1\juego final\trabajo integrador final\trabajo integrador\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Funciones.h"
+	"rlutil.h"
+
+1634572401 c:\users\usurio\desktop\utn\primer año\primer cuatrimestre\laboratorio en computación 1\juego final\trabajo integrador final\trabajo integrador\funciones.h
+	<windows.h>
+
+1571584339 c:\users\usurio\desktop\utn\primer año\primer cuatrimestre\laboratorio en computación 1\juego final\trabajo integrador final\trabajo integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1634572417 source:c:\users\usurio\desktop\utn\primer año\primer cuatrimestre\laboratorio en computación 1\juego final\trabajo integrador final\trabajo integrador\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Funciones.h"
+	"rlutil.h"
+
+1657673670 source:c:\users\usurio\desktop\pablo\utn\primer año - terminado\primer cuatrimestre\laboratorio en computación 1\juego final\trabajo integrador final\trabajo integrador\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Funciones.h"
+	"rlutil.h"
+
+1634572401 c:\users\usurio\desktop\pablo\utn\primer año - terminado\primer cuatrimestre\laboratorio en computación 1\juego final\trabajo integrador final\trabajo integrador\funciones.h
+	<windows.h>
+
+1571584339 c:\users\usurio\desktop\pablo\utn\primer año - terminado\primer cuatrimestre\laboratorio en computación 1\juego final\trabajo integrador final\trabajo integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1634572417 source:c:\users\usurio\desktop\pablo\utn\primer año - terminado\primer cuatrimestre\laboratorio en computación 1\juego final\trabajo integrador final\trabajo integrador\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Funciones.h"
+	"rlutil.h"
+
+1657673670 source:c:\users\usurio\desktop\dados\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Funciones.h"
+	"rlutil.h"
+
+1634572401 c:\users\usurio\desktop\dados\funciones.h
+	<windows.h>
+
+1571584339 c:\users\usurio\desktop\dados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1634572417 source:c:\users\usurio\desktop\dados\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Funciones.h"
+	"rlutil.h"
+
